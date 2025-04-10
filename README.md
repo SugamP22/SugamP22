@@ -1,6 +1,5 @@
 # 👋 ¡Hola! Soy Sugam Poudel
-
-¡Bienvenid@ a mi perfil de GitHub! Soy una persona curiosa, apasionada por la tecnología y siempre con ganas de aprender cosas nuevas.
+¡Bienvenid@ a mi perfil de GitHub! Soy una persona curiosa, apasionada por la tecnología y siempre con ganas de aprender cosas nuevas… o al menos eso intento. Actualmente estoy estudiando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) en CENEC, aunque la mayor parte de mi aprendizaje proviene de plataformas como ChatGPT y YouTube. Eso sí, trato de hacer un esfuerzo por asistir a clase de vez en cuando, pero, ¿quién necesita clases cuando tienes todo el conocimiento del mundo en Internet, verdad?
 
 ### 🚀 Actualmente estudiando:
 - 💻 Java, Python  
