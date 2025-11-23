@@ -19,7 +19,7 @@ Málaga, España 🇪🇸
 ---
 
 > 💬 ¿Quieres ponerte en contacto conmigo?  
-📧 sugampoudel528@gmail.com
+📧 sugampoudel0528@gmail.com
 
 ¡Gracias por pasarte por aquí! 🙌  
 ✨ ¡Sigue explorando y creando!
