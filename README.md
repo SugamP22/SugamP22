@@ -2,10 +2,10 @@
 ¡Bienvenid@ a mi perfil de GitHub! Soy una persona curiosa, apasionada por la tecnología y siempre con ganas de aprender cosas nuevas… o al menos eso intento. Actualmente estoy estudiando el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) en Colegio San Jose, aunque la mayor parte de mi aprendizaje proviene de plataformas como ChatGPT y YouTube. Eso sí, trato de hacer un esfuerzo por asistir a clase de vez en cuando, pero, ¿quién necesita clases cuando tienes todo el conocimiento del mundo en Internet, verdad?
 
 ### 🚀  Estudiando:
-- 💻 Java, Python  
+- 💻 Java, Python, C#, Android, JavaScript
 - 🎨 HTML, CSS  
-- 🗄️ Bases de datos (SQL)  
-- 🌐 WordPress y desarrollo web  
+- 🗄️ Bases de datos (MYSQL)  
+- 🌐 WordPress 
 - 🛠️ Y explorando muchas cosas más...
 
 ### 🎯 Objetivos:
