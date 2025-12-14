@@ -1,22 +1,18 @@
-## Hi there! 👋
+# Hi, I'm Sugam 👋
 
-## About Me
-
-I'm based in **Málaga** and I love coding and technology. I have experience in various programming languages and enjoy working on diverse projects. I'm continually learning and growing in my field.
-
-
+I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. My journey in technology is just beginning, but I am passionate and inspired to create an impactful and lasting career in software development. I enjoy exploring new technologies, building projects, and continuously improving my skills. I am highly motivated, eager to learn, and ready to take on challenges. **I will become the best.** 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugamP22&show_icons=true&theme=radical)
 
-## Recent Activity
+## 💻 Recent Activity
 
-- **12 Dec 2025:** Pushed changes to [seminarioGit](https://github.com/SugamP22/seminarioGit)
-- **07 Dec 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)
-- **23 Nov 2025:** Pushed changes to [GestionFabricaDeCoches](https://github.com/SugamP22/GestionFabricaDeCoches)
-- **23 Nov 2025:** Pushed changes to [SugamP22](https://github.com/SugamP22/SugamP22)
-- **16 Nov 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)
+- **12 Dec 2025:** Pushed changes to [seminarioGit](https://github.com/SugamP22/seminarioGit)  
+- **07 Dec 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)  
+- **23 Nov 2025:** Pushed changes to [GestionFabricaDeCoches](https://github.com/SugamP22/GestionFabricaDeCoches)  
+- **23 Nov 2025:** Pushed changes to [SugamP22](https://github.com/SugamP22/SugamP22)  
+- **16 Nov 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)  
 
-## Skills & Technologies
+## 🛠 Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -28,8 +24,8 @@ I'm based in **Málaga** and I love coding and technology. I have experience in 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
-## Connect with Me
-
-{}
