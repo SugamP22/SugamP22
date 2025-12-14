@@ -2,15 +2,9 @@
 
 I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. My journey in technology is just beginning, but I am passionate and inspired to create an impactful and lasting career in software development. I enjoy exploring new technologies, building projects, and continuously improving my skills. I am highly motivated, eager to learn, and ready to take on challenges. **I will become the best.** 🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugamP22&show_icons=true&theme=radical)
-
-## 💻 Recent Activity
-
-- **12 Dec 2025:** Pushed changes to [seminarioGit](https://github.com/SugamP22/seminarioGit)  
-- **07 Dec 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)  
-- **23 Nov 2025:** Pushed changes to [GestionFabricaDeCoches](https://github.com/SugamP22/GestionFabricaDeCoches)  
-- **23 Nov 2025:** Pushed changes to [SugamP22](https://github.com/SugamP22/SugamP22)  
-- **16 Nov 2025:** Pushed changes to [Java](https://github.com/SugamP22/Java)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SugamP22&show_icons=true&theme=radical)
+](https://github-readme-stats.vercel.app/api?username=SugamP22&show_icons=true&theme=radical&count_private=true
+)
 
 ## 🛠 Skills & Technologies
 
