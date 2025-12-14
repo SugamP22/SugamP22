@@ -8,7 +8,7 @@ I'm based in **Málaga** and I love coding and technology. I have experience in 
 
 ## Skills & Technologies
 
-java,html,css,mysql,androidstudio,git,github,wordpress,javascript,c#,Python
+java,php,html,css,mysql,androidstudio,docker,git,github,wordpress,flutter,react,nodejs
 
 ## Top Projects
 
