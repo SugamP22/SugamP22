@@ -6,7 +6,7 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 
 ---
 
-## 🌟 Skills & Technologies
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/star.svg" alt="star" width="20" height="20" style="vertical-align:middle;"> Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -26,20 +26,20 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 
 ---
 
-## 📫 Connect with Me
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="connect" width="20" height="20" style="vertical-align:middle;"> Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank">
+  <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:sugamestatrabajando@gmail.com">
+  <a href="mailto:sugamestatrabajando@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 💡 Quote / Motto
+## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lightbulb.svg" alt="lightbulb" width="20" height="20" style="vertical-align:middle;"> Quote / Motto
 
 <p align="center">
   <i>"Learning never exhausts the mind — it fuels it."</i>
