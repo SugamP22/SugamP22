@@ -1,4 +1,4 @@
-# Hi, I'm Sugam
+# Hey you!!
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam%3BSecond-Year+Student+at+San+Jose+Institution%3BAspiring+Multiplatform+App+Developer%3BCurrently+in+Internship+at+Hispasec+M%C3%A1laga&center=true&width=600&height=100)
 
