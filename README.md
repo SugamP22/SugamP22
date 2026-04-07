@@ -28,9 +28,9 @@ I am a second-year student at **San Jose Institution**, studying to become a **M
 
 ## LAST THOUGHT :
 
-<p align="center">
+
   ![Typing Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank" rel="noopener noreferrer">
