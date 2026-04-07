@@ -26,19 +26,17 @@ I am a second-year student at **San Jose Institution**, studying to become a **M
 
 ---
 
-## Connect with Me
+## Quote / Motto
+
+<p align="center">
+  ![Typing Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:sugamestatrabajando@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-## Quote / Motto
-
-![Typing Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
