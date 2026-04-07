@@ -1,12 +1,14 @@
-# Hey you!!
+<!-- Hero Section with Background GIF -->
+![Hero Background](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam%3BSecond-Year+Student+at+San+Jose+Institution%3BAspiring+Multiplatform+App+Developer%3BCurrently+in+Internship+at+Hispasec+M%C3%A1laga&center=true&width=600&height=100)
+<!-- Floating/Highlighted Name -->
+![Floating Name](https://readme-typing-svg.herokuapp.com?lines=Hey,+it's+me+Sugam!+Nice+to+meet+you+finally.&center=true&width=600&height=100&color=FFFFFF&background=1F1F1F)
 
-I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am currently at **Hispasec Málaga** doing internship to gain hands-on experience and contribute to real-world projects.
+I am a second-year student at **San Jose Institution**, pursuing a career as a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am currently at **Hispasec Málaga** gaining hands-on experience and contributing to real-world projects.
 
 ---
 
-## Skills & Technologies
+## 💻 Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -26,11 +28,13 @@ I am a second-year student at **San Jose Institution**, studying to become a **M
 
 ---
 
-## LAST THOUGHT :
+## ✨ Quote
 
+![Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
 
-  ![Typing Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
+---
 
+## 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank" rel="noopener noreferrer">
