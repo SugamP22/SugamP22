@@ -26,15 +26,6 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugam-profile&show_icons=true&theme=radical" alt="Sugam's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugam-profile&layout=compact&theme=radical" alt="Sugam's Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
