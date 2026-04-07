@@ -29,14 +29,11 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sugam-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:sugamestatrabajando@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://twitter.com/sugam-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </p>
 
