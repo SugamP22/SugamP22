@@ -1,12 +1,12 @@
-# Hi, I'm Sugam 👋
+# Hi, I'm Sugam
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam%3BSecond-Year+Student+at+San+Jose+Institution%3BAspiring+Multiplatform+App+Developer%3BExcited+for+Internship+at+Hispasec+M%C3%A1laga&center=true&width=600&height=100)
 
-Passionate about technology and continuous learning. Soon, I will start my internship at **Hispasec Málaga** to gain hands-on experience and contribute to real-world projects.
+I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am preparing to start my internship at **Hispasec Málaga** to gain hands-on experience and contribute to real-world projects.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/star.svg" alt="star" width="20" height="20" style="vertical-align:middle;"> Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -26,7 +26,7 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="connect" width="20" height="20" style="vertical-align:middle;"> Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sugam-poudel-356459330/" target="_blank" rel="noopener noreferrer">
@@ -39,8 +39,6 @@ Passionate about technology and continuous learning. Soon, I will start my inter
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lightbulb.svg" alt="lightbulb" width="20" height="20" style="vertical-align:middle;"> Quote / Motto
+## Quote / Motto
 
-<p align="center">
-  <i>"Learning never exhausts the mind — it fuels it."</i>
-</p>
+![Typing Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
