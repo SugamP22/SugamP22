@@ -27,11 +27,7 @@ I am a second-year student at **San Jose Institution**, pursuing a career as a *
 </p>
 
 ---
-
-## ✨ Quote
-
-![Quote](https://readme-typing-svg.herokuapp.com?lines=Learning+never+exhausts+the+mind+—+it+fuels+it.&center=true&width=600&height=60&color=FF0000&size=20)
-
+![Quote](https://readme-typing-svg.herokuapp.com?lines=I+like+to+flex+my+creations.&center=true&width=600&height=60&color=FF0000&size=20)
 ---
 
 ## 📫 Connect with me
