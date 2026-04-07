@@ -1,8 +1,10 @@
 # Hi, I'm Sugam 👋
 
-I am a second-year student at San Jose Institution, studying to become a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am excited to soon start my internship at **Hispasec Málaga** to gain hands-on experience and contribute to real-world projects.
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam;Second-Year+Student+at+San+Jose+Institution;Aspiring+Multiplatform+App+Developer;Excited+for+Internship+at+Hispasec+Málaga&center=true&width=600&height=100)
 
+I am passionate about technology and continuous learning. Soon, I will start my internship at **Hispasec Málaga** to gain hands-on experience and contribute to real-world projects.
 
+---
 
 ## 🛠 Skills & Technologies
 
@@ -19,10 +21,5 @@ I am a second-year student at San Jose Institution, studying to become a **Multi
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logoColor=white">
-
-
-
-  
+  <img src="https://img.shields.io/badge/RDBMS-4479A1?style=for-the-badge&logoColor=white">
 </p>
-
