@@ -1,8 +1,8 @@
 # Hi, I'm Sugam
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam%3BSecond-Year+Student+at+San+Jose+Institution%3BAspiring+Multiplatform+App+Developer%3BExcited+for+Internship+at+Hispasec+M%C3%A1laga&center=true&width=600&height=100)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=I'm+Sugam%3BSecond-Year+Student+at+San+Jose+Institution%3BAspiring+Multiplatform+App+Developer%3BCurrently+in+Internship+at+Hispasec+M%C3%A1laga&center=true&width=600&height=100)
 
-I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am preparing to start my internship at **Hispasec Málaga** to gain hands-on experience and contribute to real-world projects.
+I am a second-year student at **San Jose Institution**, studying to become a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am currently at **Hispasec Málaga** doing internship to gain hands-on experience and contribute to real-world projects.
 
 ---
 
