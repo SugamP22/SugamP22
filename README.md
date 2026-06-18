@@ -4,7 +4,7 @@
 <!-- Floating/Highlighted Name -->
 ![Floating Name](https://readme-typing-svg.herokuapp.com?lines=Hey,+it's+me+Sugam!+Nice+to+meet+you+finally.&center=true&width=600&height=100&color=FFFFFF&background=1F1F1F)
 
-I am a second-year student at **San Jose Institution**, pursuing a career as a **Multiplatform Application Developer**. Passionate about technology and continuous learning, I am currently at **Hispasec Málaga** gaining hands-on experience and contributing to real-world projects.
+Recently graduated and completed an internship at **Hispasec**. Currently freelancing on the side while focusing on developing an advanced **POS (Point of Sale) system**. Taking it one step at a time, continuously learning, and gaining hands-on experience through real-world projects.
 
 ---
 
@@ -27,7 +27,7 @@ I am a second-year student at **San Jose Institution**, pursuing a career as a *
 </p>
 
 ---
-![Quote](https://readme-typing-svg.herokuapp.com?lines=I+like+to+flex+my+creations.&center=true&width=600&height=60&color=FF0000&size=20)
+![Quote](https://readme-typing-svg.herokuapp.com?lines=404:+Dream+Job+Not+Found.&center=true&width=600&height=60&color=FF0000&size=20)
 ---
 
 ## 📫 Connect with me
